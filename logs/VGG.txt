@@ -1,0 +1,1 @@
+Get Better top1: 0.5424107142857143 saving weights to ./checkpoints/VGG.pth 2023-07-08 16:44:11.695284

@@ -1,0 +1,15 @@
+Get Better top1: 0.6495535714285714 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:20:38.108084
+Get Better top1: 0.7008928571428571 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:20:44.461768
+Get Better top1: 0.8861607142857143 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:20:50.522318
+Get Better top1: 0.90625 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:21:02.215555
+Get Better top1: 0.9196428571428571 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:21:25.218856
+Get Better top1: 0.9285714285714286 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:21:36.633144
+Get Better top1: 0.9308035714285714 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:21:48.370731
+Get Better top1: 0.9330357142857143 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:22:12.291161
+Get Better top1: 0.9352678571428571 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:22:36.766336
+Get Better top1: 0.9397321428571429 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:22:42.847361
+Get Better top1: 0.9419642857142857 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:23:00.597580
+Get Better top1: 0.9441964285714286 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:23:30.033336
+Get Better top1: 0.9508928571428571 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:23:35.811064
+Get Better top1: 0.953125 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:23:53.315243
+Get Better top1: 0.9575892857142857 saving weights to ./checkpoints/AlexNet.pth 2023-07-08 15:25:20.806081
